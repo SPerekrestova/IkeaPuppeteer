@@ -1,0 +1,8 @@
+url: 'https://api.telegram.org/bot'
+apiToken: ''
+chatId:
+userName: ''
+userPass: ''
+adress: ''
+cronString: ''
+headless: true
